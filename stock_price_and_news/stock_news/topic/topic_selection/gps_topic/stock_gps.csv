@@ -1,0 +1,508 @@
+Unnamed: 0,Date,text_headlines
+1,2022-02-14 04:56:00,gap inc stock falls monday underperforms market
+2,2022-02-11 04:56:00,gap inc stock falls friday underperforms market
+3,2022-02-10 04:57:00,gap inc stock underperforms thursday when compared to competitors
+4,2022-02-09 04:56:00,gap inc stock falls wednesday underperforms market
+5,2022-02-08 04:56:00,gap inc stock outperforms market on strong trading day
+6,2022-02-07 04:57:00,gap inc stock underperforms monday when compared to competitors
+7,2022-02-04 04:57:00,gap inc stock falls friday underperforms market
+8,2022-02-03 04:57:00,gap inc stock falls thursday underperforms market
+9,2022-02-02 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+10,2022-02-01 04:57:00,gap inc stock outperforms competitors on strong trading day
+11,2022-01-31 04:57:00,gap inc stock rises monday still underperforms market
+12,2022-01-28 04:57:00,gap inc stock rises friday still underperforms market
+13,2022-01-27 04:57:00,gap inc stock outperforms market despite losses on the day
+16,2022-01-26 04:57:00,gap inc stock falls wednesday underperforms market
+17,2022-01-25 04:57:00,gap inc stock rises tuesday outperforms market
+18,2022-01-24 04:57:00,gap inc stock rises monday outperforms market
+19,2022-01-21 04:57:00,gap inc stock underperforms friday when compared to competitors
+20,2022-01-20 04:57:00,gap inc stock falls thursday underperforms market
+21,2022-01-19 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+22,2022-01-18 04:57:00,gap inc stock underperforms tuesday when compared to competitors
+26,2022-01-14 04:57:00,gap inc stock falls friday underperforms market
+27,2022-01-13 04:57:00,gap inc stock rises thursday outperforms market
+28,2022-01-12 04:57:00,gap inc stock falls wednesday underperforms market
+29,2022-01-11 04:57:00,gap inc stock rises tuesday outperforms market
+30,2022-01-10 05:26:00,tjx cos stock underperforms monday when compared to competitors
+31,2022-01-10 05:21:00,ross stores inc stock outperforms competitors despite losses on the day
+32,2022-01-10 04:57:00,gap inc stock underperforms monday when compared to competitors
+34,2022-01-07 04:57:00,gap inc stock falls friday underperforms market
+36,2022-01-06 04:57:00,gap inc stock outperforms competitors on strong trading day
+37,2022-01-05 04:57:00,gap inc stock falls wednesday still outperforms market
+38,2022-01-04 04:58:00,gap inc stock outperforms competitors on strong trading day
+40,2022-01-03 04:57:00,gap inc stock outperforms competitors on strong trading day
+41,2021-12-31 04:57:00,gap inc stock falls friday underperforms market
+42,2021-12-30 04:57:00,gap inc stock outperforms market on strong trading day
+43,2021-12-29 04:57:00,gap inc stock outperforms competitors on strong trading day
+44,2021-12-28 04:57:00,gap inc stock falls tuesday underperforms market
+45,2021-12-27 04:57:00,gap inc stock rises monday outperforms market
+46,2021-12-23 04:57:00,gap inc stock rises thursday still underperforms market
+47,2021-12-22 04:57:00,gap inc stock rises wednesday still underperforms market
+48,2021-12-21 04:57:00,gap inc stock rises tuesday outperforms market
+49,2021-12-20 04:57:00,gap inc stock underperforms monday when compared to competitors
+50,2021-12-17 04:57:00,gap inc stock rises friday outperforms market
+51,2021-12-16 04:57:00,gap inc stock underperforms thursday when compared to competitors
+52,2021-12-15 04:57:00,gap inc stock rises wednesday still underperforms market
+53,2021-12-14 04:57:00,gap inc stock rises tuesday outperforms market
+54,2021-12-13 04:57:00,gap inc stock underperforms monday when compared to competitors
+55,2021-12-10 04:57:00,gap inc stock falls friday underperforms market
+56,2021-12-09 04:57:00,gap inc stock falls thursday underperforms market
+57,2021-12-08 04:57:00,gap inc stock falls wednesday underperforms market
+58,2021-12-06 04:57:00,gap inc stock outperforms market on strong trading day
+59,2021-12-03 04:57:00,gap inc stock rises friday outperforms market
+60,2021-12-02 04:57:00,gap inc stock rises thursday outperforms market
+61,2021-12-01 04:56:00,gap inc stock falls wednesday underperforms market
+62,2021-11-30 04:56:00,gap inc stock underperforms tuesday when compared to competitors
+64,2021-11-29 04:56:00,gap inc stock rises monday outperforms market
+67,2021-11-24 04:56:00,gap inc stock falls wednesday underperforms market
+68,2021-11-24 02:26:00,dow slips gap and nordstrom plunge—and what else happened in the stock market today
+79,2021-11-23 04:56:00,gap inc stock underperforms tuesday when compared to competitors
+82,2021-11-22 04:56:00,gap inc stock underperforms monday when compared to competitors
+84,2021-11-19 04:56:00,gap inc stock falls friday underperforms market
+85,2021-11-18 04:56:00,gap inc stock outperforms market on strong trading day
+86,2021-11-17 04:56:00,gap inc stock falls wednesday underperforms market
+87,2021-11-16 04:56:00,gap inc stock outperforms market on strong trading day
+88,2021-11-15 04:56:00,gap inc stock underperforms monday when compared to competitors despite daily gains
+89,2021-11-12 04:56:00,gap inc stock falls friday underperforms market
+90,2021-11-11 04:56:00,gap inc stock outperforms competitors on strong trading day
+91,2021-11-10 04:56:00,gap inc stock falls wednesday underperforms market
+92,2021-11-09 04:57:00,gap inc stock rises tuesday outperforms market
+93,2021-11-08 04:56:00,gap inc stock falls monday underperforms market
+94,2021-11-05 04:57:00,gap inc stock rises friday outperforms market
+95,2021-11-03 04:57:00,gap inc stock outperforms competitors on strong trading day
+96,2021-11-02 04:57:00,gap inc stock falls tuesday underperforms market
+97,2021-11-01 04:57:00,gap inc stock rises monday outperforms market
+98,2021-10-29 04:57:00,gap inc stock underperforms friday when compared to competitors
+100,2021-10-28 04:57:00,gap inc stock outperforms competitors on strong trading day
+102,2021-10-27 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+103,2021-10-26 04:57:00,gap inc stock underperforms tuesday when compared to competitors despite daily gains
+104,2021-10-25 04:57:00,gap inc stock outperforms competitors despite losses on the day
+105,2021-10-22 04:57:00,gap inc stock underperforms friday when compared to competitors
+106,2021-10-21 04:57:00,gap inc stock underperforms thursday when compared to competitors
+107,2021-10-20 04:57:00,gap inc stock falls wednesday underperforms market
+108,2021-10-19 04:57:00,gap inc stock falls tuesday underperforms market
+109,2021-10-18 04:57:00,gap inc stock rises monday outperforms market
+110,2021-10-15 04:57:00,gap inc stock falls friday underperforms market
+111,2021-10-14 04:57:00,gap inc stock rises thursday still underperforms market
+112,2021-10-13 04:57:00,gap inc stock falls wednesday underperforms market
+113,2021-10-12 04:57:00,gap inc stock outperforms market on strong trading day
+114,2021-10-11 04:57:00,gap inc stock underperforms monday when compared to competitors
+115,2021-10-08 04:57:00,gap inc stock underperforms friday when compared to competitors
+116,2021-10-07 04:57:00,gap inc stock outperforms market on strong trading day
+117,2021-10-06 04:57:00,gap inc stock outperforms competitors despite losses on the day
+118,2021-10-05 04:56:00,gap inc stock falls tuesday underperforms market
+120,2021-10-04 04:57:00,gap inc stock rises monday outperforms market
+121,2021-10-01 04:57:00,gap inc stock outperforms competitors on strong trading day
+123,2021-09-30 04:57:00,gap inc stock underperforms thursday when compared to competitors
+124,2021-09-29 04:57:00,gap inc stock outperforms competitors on strong trading day
+126,2021-09-28 04:57:00,gap inc stock outperforms market on strong trading day
+127,2021-09-27 04:57:00,gap inc stock outperforms competitors on strong trading day
+128,2021-09-24 04:57:00,gap inc stock outperforms competitors despite losses on the day
+129,2021-09-23 04:57:00,gap inc stock outperforms market on strong trading day
+130,2021-09-22 04:57:00,gap inc stock outperforms market on strong trading day
+131,2021-09-21 04:57:00,gap inc stock falls tuesday underperforms market
+132,2021-09-20 04:57:00,gap inc stock underperforms monday when compared to competitors
+133,2021-09-17 04:56:00,gap inc stock outperforms market on strong trading day
+134,2021-09-16 04:57:00,gap inc stock rises thursday outperforms market
+135,2021-09-15 04:57:00,gap inc stock outperforms competitors despite losses on the day
+136,2021-09-14 04:56:00,gap inc stock falls tuesday underperforms market
+137,2021-09-13 04:57:00,gap inc stock outperforms competitors on strong trading day
+138,2021-09-10 04:57:00,gap inc stock underperforms friday when compared to competitors
+139,2021-09-09 04:57:00,gap inc stock outperforms competitors on strong trading day
+140,2021-09-08 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+141,2021-09-07 04:57:00,gap inc stock falls tuesday underperforms market
+142,2021-09-03 04:57:00,gap inc stock falls friday underperforms market
+143,2021-09-02 04:57:00,gap inc stock underperforms thursday when compared to competitors
+146,2021-09-01 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+147,2021-08-31 04:57:00,gap inc stock outperforms market despite losses on the day
+148,2021-08-30 04:57:00,gap inc stock rises monday outperforms market
+151,2021-08-27 04:57:00,gap inc stock rises friday still underperforms market
+157,2021-08-26 04:57:00,gap inc stock underperforms thursday when compared to competitors
+158,2021-08-25 04:57:00,gap inc stock falls wednesday underperforms market
+159,2021-08-24 04:57:00,gap inc stock outperforms competitors on strong trading day
+160,2021-08-23 04:57:00,gap inc stock rises monday still underperforms market
+163,2021-08-20 04:57:00,gap inc stock rises friday outperforms market
+164,2021-08-19 04:57:00,gap inc stock outperforms market on strong trading day
+165,2021-08-18 04:57:00,gap inc stock falls wednesday still outperforms market
+167,2021-08-17 06:21:00,gap inc stock falls tuesday underperforms market
+169,2021-08-16 04:57:00,gap inc stock falls monday underperforms market
+170,2021-08-13 04:57:00,gap inc stock falls friday underperforms market
+171,2021-08-12 04:57:00,gap inc stock falls thursday underperforms market
+172,2021-08-11 04:57:00,gap inc stock underperforms wednesday when compared to competitors despite daily gains
+173,2021-08-10 04:57:00,gap inc stock outperforms market on strong trading day
+174,2021-08-09 04:57:00,gap inc stock outperforms competitors despite losses on the day
+175,2021-08-06 04:57:00,gap inc stock rises friday outperforms market
+176,2021-08-05 04:57:00,gap inc stock rises thursday outperforms market
+177,2021-08-04 04:57:00,gap inc stock falls wednesday underperforms market
+178,2021-08-03 04:57:00,gap inc stock outperforms competitors on strong trading day
+179,2021-08-02 04:57:00,gap inc stock underperforms monday when compared to competitors
+181,2021-07-30 04:57:00,gap inc stock outperforms competitors on strong trading day
+182,2021-07-29 04:57:00,gap inc stock rises thursday outperforms market
+183,2021-07-28 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+184,2021-07-27 04:57:00,gap inc stock falls tuesday underperforms market
+185,2021-07-26 04:57:00,gap inc stock rises monday outperforms market
+187,2021-07-23 04:57:00,gap inc stock rises friday still underperforms market
+188,2021-07-22 04:57:00,gap inc stock outperforms competitors despite losses on the day
+191,2021-07-21 04:56:00,gap inc stock outperforms competitors on strong trading day
+192,2021-07-20 04:57:00,gap inc stock rises tuesday outperforms market
+194,2021-07-19 04:57:00,gap inc stock outperforms competitors despite losses on the day
+195,2021-07-16 04:57:00,gap inc stock falls friday underperforms market
+196,2021-07-15 04:57:00,gap inc stock falls thursday underperforms market
+197,2021-07-14 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+198,2021-07-13 04:57:00,gap inc stock falls tuesday underperforms market
+199,2021-07-12 04:57:00,gap inc stock underperforms monday when compared to competitors
+200,2021-07-09 04:57:00,gap inc stock outperforms competitors on strong trading day
+201,2021-07-08 04:56:00,gap inc stock outperforms competitors despite losses on the day
+203,2021-07-07 04:57:00,gap inc stock falls wednesday underperforms market
+204,2021-07-06 04:57:00,gap inc stock underperforms tuesday when compared to competitors
+205,2021-07-02 04:57:00,gap inc stock underperforms friday when compared to competitors
+206,2021-07-01 04:57:00,gap inc stock outperforms competitors despite losses on the day
+209,2021-06-30 04:57:00,gap inc stock outperforms competitors on strong trading day
+211,2021-06-29 04:57:00,gap inc stock falls tuesday underperforms market
+212,2021-06-28 04:57:00,gap inc stock falls monday underperforms market
+213,2021-06-25 04:57:00,gap inc stock outperforms market on strong trading day
+214,2021-06-24 04:57:00,gap inc stock rises thursday still underperforms market
+215,2021-06-23 04:57:00,gap inc stock outperforms competitors on strong trading day
+216,2021-06-22 04:57:00,gap inc stock rises tuesday outperforms market
+217,2021-06-21 04:57:00,gap inc stock rises monday still underperforms market
+218,2021-06-18 04:57:00,gap inc stock underperforms friday when compared to competitors
+219,2021-06-17 04:57:00,gap inc stock underperforms thursday when compared to competitors
+220,2021-06-16 04:57:00,gap inc stock outperforms market on strong trading day
+221,2021-06-15 04:57:00,gap inc stock outperforms competitors despite losses on the day
+222,2021-06-14 04:57:00,gap inc stock outperforms competitors on strong trading day
+223,2021-06-11 04:57:00,gap inc stock outperforms market on strong trading day
+224,2021-06-10 04:57:00,gap inc stock falls thursday underperforms market
+225,2021-06-09 04:57:00,gap inc stock falls wednesday underperforms market
+226,2021-06-08 04:57:00,gap inc stock outperforms market on strong trading day
+228,2021-06-07 04:57:00,gap inc stock falls monday underperforms market
+230,2021-06-04 04:57:00,gap inc stock outperforms competitors despite losses on the day
+231,2021-06-03 04:57:00,gap inc stock falls thursday underperforms market
+233,2021-06-02 04:57:00,gap inc stock falls wednesday underperforms market
+234,2021-06-01 04:57:00,gap inc stock underperforms tuesday when compared to competitors
+235,2021-05-28 04:57:00,gap inc stock underperforms friday when compared to competitors
+237,2021-05-28 07:44:00,gap surprises wall street with quarterly profit as activewear summer fashions carry the day
+238,2021-05-27 04:57:00,gap inc stock rises thursday outperforms market
+240,2021-05-26 04:57:00,gap inc stock outperforms competitors on strong trading day
+242,2021-05-25 04:57:00,gap inc stock falls tuesday underperforms market
+244,2021-05-24 04:57:00,gap inc stock rises monday still underperforms market
+247,2021-05-21 04:57:00,gap inc stock outperforms competitors despite losses on the day
+248,2021-05-20 04:57:00,gap inc stock underperforms thursday when compared to competitors
+249,2021-05-19 04:57:00,gap inc stock falls wednesday underperforms market
+250,2021-05-18 04:57:00,gap inc stock underperforms tuesday when compared to competitors
+253,2021-05-17 04:57:00,gap inc stock outperforms market on strong trading day
+255,2021-05-14 04:57:00,gap inc stock outperforms market on strong trading day
+256,2021-05-13 04:57:00,gap inc stock outperforms competitors on strong trading day
+257,2021-05-12 04:57:00,gap inc stock falls wednesday underperforms market
+259,2021-05-11 04:57:00,gap inc stock falls tuesday underperforms market
+260,2021-05-10 04:57:00,gap inc stock outperforms competitors on strong trading day
+261,2021-05-07 04:57:00,gap inc stock outperforms market on strong trading day
+262,2021-05-06 04:57:00,gap inc stock rises thursday outperforms market
+263,2021-05-05 04:57:00,gap inc stock underperforms wednesday when compared to competitors
+264,2021-05-04 04:57:00,gap inc stock outperforms competitors despite losses on the day
+268,2021-05-03 04:57:00,gap inc stock outperforms competitors on strong trading day
+270,2021-04-30 04:57:00,gap inc stock underperforms friday when compared to competitors
+271,2021-04-29 04:57:00,gap inc stock falls thursday underperforms market
+272,2021-04-28 04:57:00,gap inc stock falls wednesday underperforms market
+273,2021-04-27 04:57:00,gap inc stock rises tuesday outperforms market
+274,2021-04-26 04:57:00,gap inc stock underperforms monday when compared to competitors
+275,2021-04-23 04:57:00,gap inc stock outperforms market on strong trading day
+278,2021-04-22 04:57:00,gap inc stock outperforms competitors on strong trading day
+279,2021-04-21 04:57:00,gap inc stock rises wednesday outperforms market
+280,2021-04-20 04:57:00,gap inc stock outperforms competitors despite losses on the day
+281,2021-04-19 04:57:00,gap inc stock falls monday underperforms market
+282,2021-04-16 04:57:00,gap inc stock underperforms friday when compared to competitors
+283,2021-04-15 04:57:00,gap inc stock rises thursday outperforms market
+284,2021-04-14 04:57:00,gap inc stock remains steady wednesday still outperforms market
+285,2021-04-13 04:57:00,gap inc stock falls tuesday underperforms market
+291,2021-04-12 04:57:00,gap inc stock outperforms market on strong trading day
+292,2021-04-09 04:57:00,gap inc stock outperforms market on strong trading day
+294,2021-04-08 04:57:00,gap inc stock rises thursday outperforms market
+295,2021-04-07 04:57:00,gap inc stock falls wednesday underperforms market
+297,2021-04-06 04:57:00,gap inc stock rises tuesday outperforms market
+298,2021-04-05 04:57:00,gap inc stock rises monday still underperforms market
+299,2021-04-01 04:57:00,gap inc stock rises thursday still underperforms market
+300,2021-03-31 04:57:00,gap inc stock falls wednesday underperforms market
+301,2021-03-30 04:57:00,gap inc stock rises tuesday outperforms market
+303,2021-03-29 04:57:00,gap inc stock outperforms competitors despite losses on the day
+304,2021-03-26 04:57:00,gap inc stock outperforms competitors on strong trading day
+305,2021-03-25 04:57:00,gap inc stock rises thursday outperforms market
+306,2021-03-24 04:57:00,gap inc stock outperforms competitors despite losses on the day
+307,2021-03-23 04:57:00,gap inc stock underperforms tuesday when compared to competitors
+308,2021-03-22 04:57:00,gap inc stock falls monday underperforms market
+310,2021-03-19 04:57:00,gap inc stock outperforms market on strong trading day
+311,2021-03-18 04:57:00,gap inc stock outperforms competitors despite losses on the day
+312,2021-03-17 04:57:00,gap inc stock rises wednesday outperforms market
+313,2021-03-16 04:59:00,gap inc stock underperforms tuesday when compared to competitors
+317,2021-03-12 04:43:00,gap inc stock outperforms competitors on strong trading day
+318,2021-03-11 04:43:00,gap inc stock falls thursday underperforms market
+319,2021-03-10 04:43:00,gap inc stock outperforms market on strong trading day
+320,2021-03-09 04:43:00,gap inc stock rises tuesday still underperforms market
+322,2021-03-08 04:44:00,gap inc stock outperforms competitors on strong trading day
+324,2021-03-05 04:43:00,gap inc stock outperforms market on strong trading day
+325,2021-03-05 08:51:00,gap stock jumps costco slips and the stock market loves the jobs report
+329,2021-03-04 04:44:00,gap inc stock underperforms thursday when compared to competitors
+330,2021-03-03 04:43:00,gap inc stock outperforms market on strong trading day
+331,2021-03-02 04:45:00,gap inc stock rises tuesday outperforms market
+333,2021-03-01 04:43:00,gap inc stock outperforms market on strong trading day
+334,2021-02-26 04:43:00,gap inc stock underperforms friday when compared to competitors
+335,2021-02-25 04:43:00,gap inc stock falls thursday underperforms market
+336,2021-02-24 04:45:00,gap inc stock outperforms competitors on strong trading day
+338,2021-02-23 04:44:00,gap inc stock falls tuesday underperforms market
+339,2021-02-22 04:43:00,gap inc stock outperforms competitors on strong trading day
+340,2021-02-19 05:22:00,tjx cos stock falls friday underperforms market
+341,2021-02-19 04:49:00,ross stores inc stock falls friday underperforms market
+342,2021-02-19 04:43:00,gap inc stock outperforms competitors on strong trading day
+343,2021-02-18 05:23:00,tjx cos stock outperforms competitors on strong trading day
+344,2021-02-18 04:49:00,ross stores inc stock rises thursday outperforms market
+345,2021-02-18 04:43:00,gap inc stock outperforms market on strong trading day
+346,2021-02-17 05:23:00,tjx cos stock underperforms wednesday when compared to competitors
+347,2021-02-17 04:49:00,ross stores inc stock outperforms competitors despite losses on the day
+348,2021-02-17 04:43:00,gap inc stock underperforms wednesday when compared to competitors
+349,2021-02-16 05:23:00,tjx cos stock falls tuesday underperforms market
+350,2021-02-16 04:49:00,ross stores inc stock outperforms competitors on strong trading day
+351,2021-02-16 04:43:00,gap inc stock outperforms market on strong trading day
+352,2021-02-12 05:22:00,tjx cos stock underperforms friday when compared to competitors
+353,2021-02-12 04:49:00,ross stores inc stock falls friday underperforms market
+354,2021-02-12 04:43:00,gap inc stock outperforms competitors despite losses on the day
+355,2021-02-11 05:22:00,tjx cos stock rises thursday outperforms market
+356,2021-02-11 04:49:00,ross stores inc stock rises thursday outperforms market
+357,2021-02-11 04:44:00,gap inc stock outperforms competitors on strong trading day
+358,2021-02-10 05:22:00,tjx cos stock falls wednesday underperforms market
+359,2021-02-10 04:49:00,ross stores inc stock rises wednesday outperforms market
+360,2021-02-10 04:44:00,gap inc stock rises wednesday outperforms market
+363,2021-02-09 05:23:00,tjx cos stock falls tuesday underperforms market
+364,2021-02-09 04:49:00,ross stores inc stock outperforms competitors despite losses on the day
+365,2021-02-09 04:44:00,gap inc stock falls tuesday underperforms market
+366,2021-02-08 05:22:00,tjx cos stock rises monday outperforms market
+367,2021-02-08 04:49:00,ross stores inc stock underperforms monday when compared to competitors despite daily gains
+368,2021-02-08 04:44:00,gap inc stock underperforms monday when compared to competitors
+369,2021-02-05 05:22:00,tjx cos stock falls friday underperforms market
+370,2021-02-05 04:49:00,ross stores inc stock outperforms competitors despite losses on the day
+371,2021-02-05 04:44:00,gap inc stock outperforms market on strong trading day
+372,2021-02-04 05:23:00,tjx cos stock outperforms competitors on strong trading day
+373,2021-02-04 04:49:00,ross stores inc stock rises thursday still underperforms market
+374,2021-02-04 04:44:00,gap inc stock outperforms market on strong trading day
+375,2021-02-03 05:23:00,tjx cos stock outperforms market on strong trading day
+376,2021-02-03 04:49:00,ross stores inc stock underperforms wednesday when compared to competitors despite daily gains
+377,2021-02-03 04:44:00,gap inc stock outperforms market on strong trading day
+378,2021-02-02 05:22:00,tjx cos stock outperforms market on strong trading day
+379,2021-02-02 04:49:00,ross stores inc stock rises tuesday outperforms market
+380,2021-02-02 04:44:00,gap inc stock outperforms competitors on strong trading day
+381,2021-02-01 05:23:00,tjx cos stock rises monday still underperforms market
+382,2021-02-01 04:50:00,ross stores inc stock rises monday still underperforms market
+383,2021-02-01 04:44:00,gap inc stock outperforms competitors despite losses on the day
+384,2021-01-29 04:49:00,ross stores inc stock outperforms competitors despite losses on the day
+385,2021-01-29 04:44:00,gap inc stock outperforms competitors despite losses on the day
+386,2021-01-28 05:22:00,tjx cos stock rises thursday outperforms market
+387,2021-01-28 04:49:00,ross stores inc stock rises thursday outperforms market
+388,2021-01-28 04:43:00,gap inc stock outperforms market on strong trading day
+389,2021-01-27 05:22:00,tjx cos stock outperforms competitors despite losses on the day
+390,2021-01-27 04:49:00,ross stores inc stock falls wednesday underperforms market
+391,2021-01-27 04:43:00,gap inc stock falls wednesday underperforms market
+392,2021-01-26 05:22:00,tjx cos stock falls tuesday underperforms market
+393,2021-01-26 04:49:00,ross stores inc stock outperforms competitors despite losses on the day
+394,2021-01-26 04:43:00,gap inc stock underperforms tuesday when compared to competitors
+395,2021-01-25 05:22:00,tjx cos stock falls monday underperforms market
+396,2021-01-25 04:49:00,ross stores inc stock rises monday still underperforms market
+397,2021-01-25 04:43:00,gap inc stock falls monday underperforms market
+400,2021-01-22 05:22:00,tjx cos stock falls friday underperforms market
+401,2021-01-22 04:49:00,ross stores inc stock falls friday underperforms market
+402,2021-01-22 04:43:00,gap inc stock falls friday still outperforms market
+404,2021-01-21 05:22:00,tjx cos stock underperforms thursday when compared to competitors
+405,2021-01-21 04:49:00,ross stores inc stock outperforms market on strong trading day
+406,2021-01-21 04:43:00,gap inc stock outperforms market on strong trading day
+407,2021-01-20 05:22:00,tjx cos stock outperforms market on strong trading day
+408,2021-01-20 04:49:00,ross stores inc stock rises wednesday still underperforms market
+409,2021-01-20 04:43:00,gap inc stock outperforms market on strong trading day
+410,2021-01-19 05:17:00,tjx cos stock outperforms competitors despite losses on the day
+411,2021-01-19 04:44:00,ross stores inc stock falls tuesday underperforms market
+412,2021-01-19 04:38:00,gap inc stock underperforms tuesday when compared to competitors
+413,2021-01-15 08:14:00,tjx cos stock outperforms competitors on strong trading day
+414,2021-01-15 05:48:00,ross stores inc stock underperforms friday when compared to competitors
+415,2021-01-15 05:22:00,gap inc stock underperforms friday when compared to competitors
+416,2021-01-14 08:14:00,tjx cos stock falls thursday still outperforms market
+417,2021-01-14 05:48:00,ross stores inc stock underperforms thursday when compared to competitors
+418,2021-01-14 05:23:00,gap inc stock underperforms thursday when compared to competitors despite daily gains
+419,2021-01-13 08:14:00,tjx cos stock outperforms competitors despite losses on the day
+420,2021-01-13 05:48:00,ross stores inc stock underperforms wednesday when compared to competitors
+421,2021-01-13 05:22:00,gap inc stock falls wednesday underperforms market
+422,2021-01-12 08:14:00,tjx cos stock rises tuesday outperforms market
+423,2021-01-12 05:48:00,ross stores inc stock rises tuesday outperforms market
+424,2021-01-12 05:22:00,gap inc stock rises tuesday outperforms market
+425,2021-01-11 08:14:00,tjx cos stock falls monday underperforms market
+426,2021-01-11 05:48:00,ross stores inc stock outperforms competitors despite losses on the day
+427,2021-01-11 05:22:00,gap inc stock rises monday outperforms market
+428,2021-01-08 08:14:00,tjx cos stock rises friday still underperforms market
+429,2021-01-08 05:48:00,ross stores inc stock rises friday still underperforms market
+430,2021-01-08 05:22:00,gap inc stock underperforms friday when compared to competitors
+431,2021-01-07 08:14:00,tjx cos stock rises thursday still underperforms market
+432,2021-01-07 05:48:00,ross stores inc stock falls thursday underperforms market
+433,2021-01-07 05:22:00,gap inc stock rises thursday still underperforms market
+434,2021-01-06 08:14:00,tjx cos stock underperforms wednesday when compared to competitors despite daily gains
+435,2021-01-06 05:48:00,ross stores inc stock underperforms wednesday when compared to competitors despite daily gains
+436,2021-01-06 05:27:00,gap inc stock outperforms competitors on strong trading day
+437,2021-01-05 08:14:00,tjx cos stock falls tuesday underperforms market
+438,2021-01-05 05:48:00,ross stores inc stock rises tuesday still underperforms market
+439,2021-01-05 05:27:00,gap inc stock rises tuesday outperforms market
+440,2021-01-04 08:14:00,tjx cos stock falls monday underperforms market
+441,2021-01-04 05:49:00,ross stores inc stock falls monday underperforms market
+442,2021-01-04 05:27:00,gap inc stock underperforms monday when compared to competitors
+443,2020-12-31 08:14:00,tjx cos stock falls thursday underperforms market
+444,2020-12-31 05:48:00,ross stores inc stock rises thursday still underperforms market
+445,2020-12-31 05:27:00,gap inc stock underperforms thursday when compared to competitors
+446,2020-12-30 08:14:00,tjx cos stock rises wednesday outperforms market
+447,2020-12-30 05:48:00,ross stores inc stock rises wednesday outperforms market
+448,2020-12-30 05:27:00,gap inc stock rises wednesday outperforms market
+449,2020-12-29 08:14:00,tjx cos stock falls tuesday underperforms market
+450,2020-12-29 05:48:00,ross stores inc stock falls tuesday underperforms market
+451,2020-12-29 05:27:00,gap inc stock falls tuesday underperforms market
+452,2020-12-28 08:14:00,tjx cos stock rises monday outperforms market
+453,2020-12-28 05:48:00,ross stores inc stock outperforms competitors on strong trading day
+454,2020-12-28 05:27:00,gap inc stock falls monday underperforms market
+455,2020-12-24 08:14:00,tjx cos stock underperforms thursday when compared to competitors
+456,2020-12-24 05:48:00,ross stores inc stock outperforms competitors despite losses on the day
+457,2020-12-24 05:27:00,gap inc stock falls thursday underperforms market
+458,2020-12-23 08:14:00,tjx cos stock outperforms market on strong trading day
+459,2020-12-23 05:48:00,ross stores inc stock outperforms competitors on strong trading day
+460,2020-12-23 05:27:00,gap inc stock rises wednesday outperforms market
+461,2020-12-22 08:14:00,tjx cos stock underperforms tuesday when compared to competitors
+462,2020-12-22 05:48:00,ross stores inc stock outperforms competitors despite losses on the day
+463,2020-12-22 05:27:00,gap inc stock underperforms tuesday when compared to competitors
+464,2020-12-21 08:15:00,tjx cos stock underperforms monday when compared to competitors
+465,2020-12-21 05:48:00,ross stores inc stock falls monday underperforms market
+466,2020-12-21 05:27:00,gap inc stock outperforms competitors on strong trading day
+467,2020-12-18 08:16:00,tjx cos stock outperforms competitors on strong trading day
+468,2020-12-18 05:51:00,ross stores inc stock outperforms market on strong trading day
+469,2020-12-18 05:30:00,gap inc stock falls friday underperforms market
+470,2020-12-17 08:14:00,tjx cos stock outperforms competitors on strong trading day
+471,2020-12-17 05:48:00,ross stores inc stock outperforms competitors on strong trading day
+472,2020-12-17 05:27:00,gap inc stock outperforms market on strong trading day
+473,2020-12-16 08:15:00,tjx cos stock falls wednesday underperforms market
+474,2020-12-16 05:48:00,ross stores inc stock outperforms competitors on strong trading day
+475,2020-12-16 05:22:00,gap inc stock falls wednesday underperforms market
+476,2020-12-11 05:27:00,gap inc stock underperforms friday when compared to competitors
+477,2020-12-10 05:27:00,gap inc stock falls thursday underperforms market
+478,2020-12-09 05:27:00,gap inc stock outperforms competitors on strong trading day
+479,2020-12-08 05:27:00,gap inc stock rises tuesday outperforms market
+480,2020-12-07 05:27:00,gap inc stock falls monday underperforms market
+481,2020-12-04 05:28:00,gap inc stock rises friday outperforms market
+482,2020-12-03 05:28:00,gap inc stock outperforms market on strong trading day
+483,2020-12-02 05:23:00,gap inc stock underperforms wednesday when compared to competitors
+484,2020-12-01 05:23:00,gap inc stock rises tuesday outperforms market
+485,2020-11-30 05:23:00,gap inc stock falls monday underperforms market
+486,2020-11-27 05:37:00,gap inc stock rises friday outperforms market
+493,2020-11-24 05:22:00,gap inc stock rises tuesday outperforms market
+495,2020-11-23 05:22:00,gap inc stock outperforms market on strong trading day
+497,2020-11-23 08:52:00,regeneron stock rises gap gains and the stock market gets a vaccine pop
+501,2020-11-20 05:22:00,gap inc stock falls friday still outperforms market
+502,2020-11-19 05:22:00,gap inc stock outperforms competitors on strong trading day
+503,2020-11-18 05:22:00,gap inc stock underperforms wednesday when compared to competitors
+504,2020-11-17 05:22:00,gap inc stock rises tuesday outperforms market
+506,2020-11-16 05:22:00,gap inc stock rises monday outperforms market
+507,2020-11-16 04:54:00,dow s&p 500 end at record highs monday as stock market rallies amid further vaccine progress
+509,2020-11-13 05:22:00,gap inc stock outperforms market on strong trading day
+510,2020-11-12 05:22:00,gap inc stock underperforms thursday when compared to competitors
+512,2020-10-28 05:17:00,gap inc stock falls wednesday underperforms market
+559,2020-06-26 01:12:00,gap stock soars 25percent in friday trading after partnership with kanye west announced
+562,2020-06-22 09:57:00,gap stock soars 83percent in monday trading after wells fargo upgrade
+573,2020-06-04 05:11:00,gap stock slumps in late trading after worse-than-expected earnings
+600,2020-04-15 11:45:00,the stock market has been on a roller coaster for 2 months — but the s&p 500 is down only 2percent over 12 months here are the big winners
+601,2020-04-08 05:15:00,these stocks rose the most wednesday as laggards from previous trading sessions bounced back
+660,2019-11-08 04:46:00,stock market edges up to new record close even as trump says he hasn’t agreed to roll back china tariffs
+693,2019-08-30 07:08:00,here are 2019’s biggest stock market winners and losers in the dow s&p 500 and nasdaq
+709,2019-07-19 08:30:00,6 ways to beat the stock market — from a money manager who’s been doing it for years
+712,2019-07-01 01:46:00,here are the stock market’s winners and losers in the first half of 2019
+749,2019-03-01 09:35:00,dow rises more than 200 points to kick off march trading
+804,2018-08-24 08:37:00,gap inc shares down 81percent in friday premarket trading
+842,2018-03-02 07:14:00,gap inc shares down 9percent in premarket trading after late-thursday earnings
+879,2017-11-17 08:28:00,gap inc shares up 7percent in friday premarket trading
+893,2017-09-06 11:02:00,gap shares up nearly 5percent in wednesday trading
+905,2017-07-10 04:24:00,nasdaq closes higher to lead stock market as tech climbs
+933,2017-04-20 07:18:00,gap shares up 16percent in thursday premarket trading
+984,2016-12-16 04:25:00,stock market closes lower after china seizes us underwater drone
+990,2016-12-01 04:25:00,gap inc shares down 02percent in late thursday trading
+1001,2016-11-18 04:24:00,stock market ends slightly lower as dollar rally sparks concern
+1005,2016-11-17 04:23:00,gap shares down 27percent in late thursday trading
+1029,2016-10-07 08:51:00,gap inc shares up 67percent in friday premarket trading
+1032,2016-10-06 04:18:00,gap inc shares down 08percent in thursday after-hours trading
+1036,2016-09-21 05:03:00,zara owner inditex's profit rises beats views
+1064,2016-08-09 07:30:00,gap inc shares fall in premarket trading after reporting same-store sales declines
+1065,2016-08-09 07:05:00,gap inc down 63percent in tuesday premarket trading
+1081,2016-07-07 04:32:00,gap shares jump in late trading after june same-store sales increase
+1082,2016-07-07 04:21:00,gap inc shares climb 45percent in after-hours trading
+1092,2016-06-02 04:20:00,gap inc shares up 37percent in after-hours trading
+1093,2016-06-02 04:20:00,gap inc shares up 37percent in after-hours trading
+1138,2016-04-08 03:20:00,gap shares down 138percent in friday afternoon trading
+1166,2016-02-22 07:35:00,looking for bottoms in oil prices and the stock market keep looking
+1183,2016-01-08 02:32:00,shares of gap inc down 141percent in afternoon trading
+1226,2015-11-09 04:27:00,gap inc shares fall 57percent in after hours trading after october same-store sales decrease
+1252,2015-09-30 09:24:00,here’s what wall street isn’t telling you about this stock market
+1304,2015-05-22 09:03:00,the stock market is calm too calm
+1342,2015-04-09 09:19:00,how high-flying hong kong stock market could do real damage
+1364,2015-02-26 09:01:00,updates advisories and surprises
+1391,2015-02-09 05:31:00,updates advisories and surprises
+1405,2015-01-08 04:13:00,gap slips 09percent in late trading after holiday-sales data
+1415,2014-12-05 09:34:00,gap rises 3percent following release of same store sales data
+1420,2014-12-04 05:01:00,updates advisories and surprises
+1444,2014-11-06 06:31:00,updates advisories and surprises
+1472,2014-09-04 04:31:00,updates advisories and surprises
+1509,2014-07-11 04:02:00,lorillard rises on possible buyout; genworth slides
+1570,2014-02-24 05:31:00,us stock market is starting to ride a tech m&a wave
+1596,2013-11-21 04:13:00,gap profit rises on strong sales abroad
+1607,2013-11-08 08:08:00,gap shares up 65percent in premarket trading
+1673,2013-02-28 05:48:00,groupon gap shares gain in trading after hours
+1681,2013-02-15 00:01:00,gap shares up more than 6percent in midday trading
+1713,2012-12-04 02:40:00,gap inc down 9percent in afternoon trading
+1729,2012-11-05 08:18:00,true religion profit rises 21percent
+1738,2012-10-04 05:31:00,updates advisories and surprises
+1772,2012-08-16 04:31:00,updates advisories and surprises
+1804,2012-05-31 08:31:00,updates advisories and surprises
+1812,2012-05-17 05:01:00,updates advisories and surprises
+1909,2011-11-17 05:01:00,updates advisories and surprises
+1959,2011-08-19 10:25:00,gap rises after it maintains forecast
+1974,2011-08-04 06:01:00,updates advisories and surprises
+1999,2011-06-02 05:01:00,updates advisories and surprises
+2006,2011-05-23 11:25:00,gap rises; sears paces retail-sector drop
+2009,2011-05-20 05:18:00,china fire shares heat up in after-hours trading
+2053,2011-04-07 11:31:00,updates advisories and surprises
+2066,2011-03-03 00:01:00,updates advisories and surprises
+2074,2011-02-24 10:01:00,updates advisories and surprises
+2087,2011-02-03 07:01:00,updates advisories and surprises
+2122,2010-12-01 10:24:00,s&p 500 rises to retest the breakdown point
+2133,2010-11-18 05:31:00,updates advisories and surprises
+2169,2010-09-17 10:13:00,s&p rises to third test of summer range top
+2171,2010-09-02 10:31:00,updates advisories and surprises
+2179,2010-08-19 10:31:00,updates advisories and surprises
+2331,2009-12-03 04:31:00,updates advisories and surprises
+2337,2009-12-01 04:10:00,retail stocks rise as staples profit rises more than expected
+2348,2009-11-19 05:01:00,updates advisories and surprises
+2400,2009-08-20 05:31:00,updates advisories and surprises
+2432,2009-06-05 09:52:00,guess rises to pace advance in retail sector
+2444,2009-05-21 05:01:00,updates advisories and surprises
+2447,2009-05-21 04:02:00,gap shares edge up 02percent in late trading
+2452,2009-05-07 11:31:00,updates advisories and surprises
+2496,2009-02-26 06:01:00,updates advisories and surprises
+2516,2009-01-08 04:31:00,updates advisories and surprises
+2538,2008-11-20 06:19:00,dell rises as profit surpasses outlook; salesforce up
+2539,2008-11-20 05:01:00,updates advisories and surprises
+2568,2008-09-23 10:37:00,retail rises with broader markets
+2580,2008-09-04 04:31:00,updates advisories and surprises
+2596,2008-08-21 05:01:00,updates advisories and surprises
+2611,2008-08-12 10:28:00,gap anntaylor gain in mixed sector trading
+2648,2008-05-22 05:02:00,gap profit rises 40percent backs full-year outlook
+2649,2008-05-22 05:01:00,updates advisories and surprises
+2660,2008-05-08 09:32:00,gap shares rise 42percent in early trading
+2695,2008-02-28 07:18:00,gap profit rises after it limits discounts; sales drop
+2709,2008-02-07 05:31:00,updates advisories and surprises
+2746,2007-10-11 11:31:00,updates advisories and surprises
+2777,2007-08-23 05:01:00,updates advisories and surprises
+2783,2007-08-09 06:31:00,updates advisories and surprises
+2797,2007-07-26 07:10:00,amgen rises after results; gap names new ceo
+2816,2007-05-24 06:01:00,updates advisories and surprises
+2819,2007-05-10 06:31:00,updates advisories and surprises
+2836,2007-04-13 04:31:00,updates advisories and surprises
+2837,2007-04-12 07:01:00,updates advisories and surprises
+2838,2007-04-12 11:23:00,gap surprises with strong march sales
+2845,2007-03-23 01:01:00,updates advisories and surprises
+2859,2007-02-26 07:01:00,updates advisories and surprises
+2897,2007-01-04 06:01:00,updates advisories and surprises
